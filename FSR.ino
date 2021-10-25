@@ -1,6 +1,6 @@
 #define BAUD_RATE                 115200
-#define ROW_COUNT                 16
-#define COLUMN_COUNT             16
+#define ROW_COUNT                 44
+#define COLUMN_COUNT              56
 
 
 
@@ -15,7 +15,7 @@
 #define PIN_MUX_INHIBIT_1         9
 
 #define ROWS_PER_MUX              16
-#define MUX_COUNT                 1
+#define MUX_COUNT                 4
 #define CHANNEL_PINS_PER_MUX      4
 
 

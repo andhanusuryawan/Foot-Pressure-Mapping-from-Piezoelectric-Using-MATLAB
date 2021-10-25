@@ -1,5 +1,6 @@
 import serial
 
+
 s = serial.Serial(port='COM3', baudrate=115200, bytesize=8, timeout=2, stopbits=serial.STOPBITS_ONE)
 res = ""
 for x in range(1,33):
